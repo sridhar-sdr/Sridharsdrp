@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sridhar P</title>
+    <link>https://sridhar-sdr.github.io/Sridharsdrp/post/</link>
+    <description>Recent content in Projects on Sridhar P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://sridhar-sdr.github.io/Sridharsdrp/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: EDA on Haberman data set</title>
+      <link>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-1/</link>
+      <pubDate>Tue, 22 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-1/</guid>
+      <description>Relevant Information:
+The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago&amp;rsquo;s Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
+Number of Instances: 306
+Number of Attributes: 4 (including the class attribute)
+Attribute Information:
+Age of patient at time of operation (numerical) Patient&amp;rsquo;s year of operation (year - 1900, numerical) Number of positive axillary nodes detected (numerical) Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 year Missing Attribute Values: None</description>
+    </item>
+    
+    <item>
+      <title>Project 2:Human activity Recognition</title>
+      <link>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-2/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-2/</guid>
+      <description>This project is to build a model that predicts the human activities such as Walking, WalkingUpstairs, WalkingDownstairs, Sitting, Standing or Laying. This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone.
+   This experiment was video recorded to label the data manually.      Link to YouTube    Link to GitHub    link to medium blog     </description>
+    </item>
+    
+    <item>
+      <title>Project 3:Amazon Fine food reviews End to end implementation </title>
+      <link>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-20/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-20/</guid>
+      <description>The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.     Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+[Q] How to determine if a review is positive or negative?
+[Ans] We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review.</description>
+    </item>
+    
+    <item>
+      <title>Project 4:Car price prediction with deployment </title>
+      <link>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-200/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-200/</guid>
+      <description>You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+ link to Github</description>
+    </item>
+    
+  </channel>
+</rss>

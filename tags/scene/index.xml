@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Sridhar P</title>
+    <link>https://sridhar-sdr.github.io/Sridharsdrp/tags/scene/</link>
+    <description>Recent content in scene on Sridhar P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://sridhar-sdr.github.io/Sridharsdrp/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: EDA on Haberman data set</title>
+      <link>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-1/</link>
+      <pubDate>Tue, 22 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdrp/post/chapter-1/</guid>
+      <description>Relevant Information:
+The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago&amp;rsquo;s Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
+Number of Instances: 306
+Number of Attributes: 4 (including the class attribute)
+Attribute Information:
+Age of patient at time of operation (numerical) Patient&amp;rsquo;s year of operation (year - 1900, numerical) Number of positive axillary nodes detected (numerical) Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 year Missing Attribute Values: None</description>
+    </item>
+    
+  </channel>
+</rss>
